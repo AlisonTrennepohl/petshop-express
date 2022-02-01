@@ -1,0 +1,30 @@
+[
+    {
+        "id": "a8705294-c8af-47ee-be0d-0b492cb035c9"  ,
+        "nome": "tosa",
+        "preco": 20,
+        "descricao": "corte de pelos",
+        "fotoURL": "/public/images/tosa.svg"
+    },
+    {
+        "id": "36ee3d3c-ae1e-4e37-8243-1da2c1476b08 ",
+        "nome": "banho",
+        "preco": 10,
+        "descricao": "corte de pelos",
+        "fotoURL": "/public/images/tosa.svg"
+    },
+    {
+        "id": "dbdae98d-2a25-47d3-9ca9-70e4e70cd2c0 ",
+        "nome": "aparar unhas",
+        "preco": 25,
+        "descricao": "corte de pelos",
+        "fotoURL": "/public/images/tosa.svg"
+    },
+    {
+        "id": "ea5d6d1e-8080-4631-8cd7-a7a4f7216bf3",
+        "nome": "adasdasd",
+        "preco": "20",
+        "descricao": "adasdasdas20",
+        "fotoURL": ""
+    }
+]
